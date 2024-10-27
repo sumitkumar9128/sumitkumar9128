@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">Backend Developer | Ex-Intern @ PrepInsta | GSSoC-EXT Contributor | Hacktoberfest Contributor | MERN Stack Enthusiast | Aspiring Software Engineer</h3>
+<h3 align="center">Backend Developer | Ex-Intern @ PrepInsta | Contributor (GSSoC-EXT & Hacktoberfest 2024) | MERN Stack | Node.js, Express, MongoDB | Aspiring Software Engineer | DSA in Java | Open to Opportunities</h3>
 
 ---
 
@@ -13,8 +13,7 @@
 - 💬 Ask me about **Node.js, Express, MongoDB, MERN stack**
 - 📫 Reach me at **sumitkumar555520@gmail.com**
 
-## 🌐 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sumitkumar0099) 
+## 🌐 Connect with Me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar9128) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SumitKumar9128) 
 
