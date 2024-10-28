@@ -11,7 +11,6 @@
 - 👯 I’m open to collaborating on **impactful projects** and **open-source contributions**
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/SumitKumar9128)
 - 💬 Ask me about **Node.js, Express, MongoDB, MERN stack**
-- 📫 Reach me at **sumitkumar555520@gmail.com**
 
 ## 🌐 Connect with Me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar9128) 
