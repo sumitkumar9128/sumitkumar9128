@@ -57,7 +57,6 @@
 ---
 ## Hacktoberfest-2024 Badges
 [![An image of @sumitkumar9128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumitkumar9128)](https://holopin.io/@sumitkumar9128)
-Footer
 
 Holographic
 Twitter
