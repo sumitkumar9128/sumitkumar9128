@@ -58,18 +58,6 @@
 ## Hacktoberfest-2024 Badges
 [![An image of @sumitkumar9128's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumitkumar9128)](https://holopin.io/@sumitkumar9128)
 
-Holographic
-Twitter
-GitHub
-Facebook
-Instagram
-Our memberships and certifications
-
-
-W3C Member logo
-Cyber Essentials logo
-1EdTech logo
-Product
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar9128&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" width="45%" /> 
