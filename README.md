@@ -79,7 +79,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=sumitkumar9128&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=sumitkumar9128&color=green)
 
 <h3 align="center">🌟 Thanks for stopping by! Feel free to reach out and connect! 🌟</h3>
 
